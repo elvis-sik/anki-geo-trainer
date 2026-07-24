@@ -1,0 +1,42 @@
+{
+  "action": "multi",
+  "version": 6,
+  "params": {
+    "actions": [
+      {
+        "action": "deleteDecks",
+        "params": {
+          "decks": [
+            "GeoTrainer"
+          ],
+          "cardsToo": true
+        }
+      },
+      {
+        "action": "deleteDecks",
+        "params": {
+          "decks": [
+            "Decks::Geography::GeoTrainer::Continents::3 Draw",
+            "Decks::Geography::GeoTrainer::World::Africa::3 Draw",
+            "Decks::Geography::GeoTrainer::World::Asia::3 Draw",
+            "Decks::Geography::GeoTrainer::World::Asia::China::3 Draw",
+            "Decks::Geography::GeoTrainer::World::Asia::India::3 Draw",
+            "Decks::Geography::GeoTrainer::World::Asia::Indonesia::3 Draw",
+            "Decks::Geography::GeoTrainer::World::Europe::3 Draw",
+            "Decks::Geography::GeoTrainer::World::Europe::Russia::3 Draw",
+            "Decks::Geography::GeoTrainer::World::North America::3 Draw",
+            "Decks::Geography::GeoTrainer::World::North America::Canada::3 Draw",
+            "Decks::Geography::GeoTrainer::World::North America::Mexico::3 Draw",
+            "Decks::Geography::GeoTrainer::World::North America::United States::3 Draw",
+            "Decks::Geography::GeoTrainer::World::Oceania::3 Draw",
+            "Decks::Geography::GeoTrainer::World::Oceania::Australia::3 Draw",
+            "Decks::Geography::GeoTrainer::World::South America::3 Draw",
+            "Decks::Geography::GeoTrainer::World::South America::Argentina::3 Draw",
+            "Decks::Geography::GeoTrainer::World::South America::Brazil::3 Draw"
+          ],
+          "cardsToo": true
+        }
+      }
+    ]
+  }
+}
